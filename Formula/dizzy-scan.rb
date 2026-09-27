@@ -1,5 +1,5 @@
 class DizzyScan < Formula
-  desc "DizzySecurity AI skill scanner CLI"
+  desc "DizzySecurity CLI"
   homepage "https://github.com/Dizzy-Security/dizzy"
   version "0.2.0"
 
